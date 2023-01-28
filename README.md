@@ -2,7 +2,7 @@
 Dockerで使用するMySQLのテンプレート。  
 ## URL・設定(docker-compose.yamlに記載)  
 phpMyAdmin：[http://localhost:8080](http://localhost:8080)    
-サーバ名：mysqldb
+サーバ名：mysqldb  
 ユーザー名：root  
 パスワード：root  
 ホスト：host.docker.internal:3306  
